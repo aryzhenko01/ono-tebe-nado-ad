@@ -1,0 +1,10 @@
+{
+    "editor.fontSize": 18,
+    "code-runner.runInTerminal": true,
+    "C_Cpp.default.compilerPath": "/usr/bin/clang++",
+    "C_Cpp.default.intelliSenseMode": "macos-clang-arm64",
+    "postcssSorting.config": {
+        
+    }
+    
+}
